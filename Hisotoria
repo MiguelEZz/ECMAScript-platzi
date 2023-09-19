@@ -1,0 +1,41 @@
+-----------------------------------------------------
+Historia de JavaScript: ¿qué es ECMAScript?
+
+APRENDEREMOS:
+conceptos clave en cada una de las versiones que han salido a  partir el 2015 hasta hoy.
+y con ello entender las particularidades que han ido agregandose a este lenguaje gracias al estandar de ECMAScript.
+
+
+COMO SE CREA JS?
+Es el lenguaje de programacion usado por HouseNet
+se crea en el contexto de la guerra de navegadores
+
+
+QUE ES ECMASCRIPT?
+es un consorcio que se encarga de regular el estado de algun lenguaje de programacion
+js, esta en ecmascript,  
+si no estuviera, cada navegador tendria un lenguaje diferente, y no estaria bueno.
+
+
+-----------------------------------------------------
+
+
+COMO USAR LAS ULTIMAS FUNCIONALIDADES DEL LENGUAJE?
+
+TC39
+	es un grupo de hackers o academicos
+	que junto a la comunidad, se encargan  de que 
+	las versiones se encuentren con actualizaciones
+	constantes año tras año.
+	y hay un estandar que se cumple para hacer la propuesta
+
+
+
+CUALQUIER PERSONA PUEDE PARTICIPAR EN LA REDACCION DE PROPUESTAS PARA UNA ACTUALIZACION:
+
+-stage 0: strawperson
+-stage 1: Proposal
+-stage 2: Draft
+-stage 3: Candidate
+-stage 4: Finished
+
