@@ -1,0 +1,14 @@
+APRENDIMOS EN ESTE modulos
+
+ECMAScript 6 2015
+-let y const
+-arrow functions
+-strings
+-template literals
+-multilinea /n 
+-defauld params (parametros)
+-operador de propagacion
+-promesas
+-clases
+-generadores
+-set/add
